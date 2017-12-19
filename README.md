@@ -1,4 +1,4 @@
-# XAMPP-Anywhere
+# XAMPP Anywhere
 Yet another XAMPP portable version
 # Installation
 Download this project folder as zip from github and... ENJOY!
