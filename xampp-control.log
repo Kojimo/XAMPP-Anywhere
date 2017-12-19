@@ -1,0 +1,50 @@
+22:17:26  [main] 	Initializing Control Panel
+22:17:26  [main] 	Windows Version:  Pro  64-bit
+22:17:26  [main] 	XAMPP Version: 7.1.12
+22:17:26  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+22:17:26  [main] 	You are not running with administrator rights! This will work for
+22:17:26  [main] 	most application stuff but whenever you do something with services
+22:17:26  [main] 	there will be a security dialogue or things will break! So think 
+22:17:26  [main] 	about running this application with administrator rights!
+22:17:26  [main] 	XAMPP Installation Directory: "d:\xamppa\"
+22:17:26  [main] 	Checking for prerequisites
+22:17:28  [main] 	All prerequisites found
+22:17:28  [main] 	Initializing Modules
+22:17:28  [filezilla] 	FileZilla Service detected with wrong path
+22:17:28  [filezilla] 	Change XAMPP FileZilla and Control Panel settings or
+22:17:28  [filezilla] 	Uninstall/disable the other service manually first
+22:17:28  [filezilla] 	Found Path: "C:\xampp\filezillaftp\filezillaserver.exe"
+22:17:28  [filezilla] 	Expected Path: "d:\xamppa\FileZillaFTP\filezillaserver.exe"
+22:17:28  [main] 	Starting Check-Timer
+22:17:28  [main] 	Control Panel Ready
+22:17:40  [main] 	Deinitializing Modules
+22:17:40  [main] 	Deinitializing Control Panel
+
+22:18:10  [main] 	Initializing Control Panel
+22:18:10  [main] 	Windows Version:  Pro  64-bit
+22:18:10  [main] 	XAMPP Version: 7.1.12
+22:18:10  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+22:18:10  [main] 	Running with Administrator rights - good!
+22:18:10  [main] 	XAMPP Installation Directory: "d:\xamppa\"
+22:18:10  [main] 	Checking for prerequisites
+22:18:10  [main] 	All prerequisites found
+22:18:10  [main] 	Initializing Modules
+22:18:10  [filezilla] 	FileZilla Service detected with wrong path
+22:18:10  [filezilla] 	Change XAMPP FileZilla and Control Panel settings or
+22:18:10  [filezilla] 	Uninstall/disable the other service manually first
+22:18:10  [filezilla] 	Found Path: "C:\xampp\filezillaftp\filezillaserver.exe"
+22:18:10  [filezilla] 	Expected Path: "d:\xamppa\FileZillaFTP\filezillaserver.exe"
+22:18:10  [main] 	Starting Check-Timer
+22:18:10  [main] 	Control Panel Ready
+22:18:21  [mysql] 	Attempting to start MySQL app...
+22:18:21  [mysql] 	Status change detected: running
+22:18:22  [Apache] 	Attempting to start Apache app...
+22:18:22  [Apache] 	Status change detected: running
+22:18:27  [mysql] 	Attempting to stop MySQL app...
+22:18:27  [mysql] 	Status change detected: stopped
+22:18:29  [Apache] 	Attempting to stop Apache (PID: 13468)
+22:18:29  [Apache] 	Attempting to stop Apache (PID: 13940)
+22:18:29  [Apache] 	Status change detected: stopped
+22:30:46  [main] 	Deinitializing Modules
+22:30:46  [main] 	Deinitializing Control Panel
+
