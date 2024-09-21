@@ -9,5 +9,3 @@ To start your XAMPP installation, check for the "xampp-control.exe".
 
 NOTE:
 Remind to "run as administrator"!
-# Troubles?
-Contact me at cosimoriondino99@gmail.com
